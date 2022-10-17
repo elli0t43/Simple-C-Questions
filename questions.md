@@ -1,6 +1,6 @@
 **1.** Write a C program to read two side of a rentangale and calculate the area, perimeter.
 
-**2.** Write a C progrma to calculate the area of circle and the circumference of a circle.
+        **2.** Write a C progrma to calculate the area of circle and the circumference of a circle.
 
 **3.** Write a C program to check whether a given number is positive or negative.
 

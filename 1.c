@@ -15,4 +15,5 @@ int main() {
     perimeter = (2*(length + width));
     printf("The perimeter: %d", perimeter);
     
+    return 0;
 }
